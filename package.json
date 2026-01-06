@@ -1,0 +1,24 @@
+{
+  "name": "testing_project",
+  "version": "1.0.0",
+  "description": "\"# testing_project\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/motiforstudy/testing_project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/motiforstudy/testing_project/issues"
+  },
+  "homepage": "https://github.com/motiforstudy/testing_project#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
